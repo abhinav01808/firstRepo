@@ -10,8 +10,10 @@ b = 7
 #I am making changes in the main branch
 #=======
 #print(np.dot(a, b))
-ans=np.dot(a, b)
-print(ans)
-
+output=np.dot(a, b)
+print(output)
+#this is done using numpy pandas
 #>>>>>>> parallel
 
+
+#Hello I am making this changes for using it in github
